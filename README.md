@@ -1,6 +1,6 @@
 [English](https://github.com/AlexTrushkovsky/NoWarDDoS/blob/main/README_en.md) | [Korean](https://github.com/AlexTrushkovsky/NoWarDDoS/blob/main/README_ko.md) | [French](https://github.com/AlexTrushkovsky/NoWarDDoS/blob/main/README_fr.md) | [Russian](https://github.com/AlexTrushkovsky/NoWarDDoS/blob/main/README_ru.md)
 
-# <b1>Ukrainian:</b1>
+# <b1>Português:</b1>
 
 # UA Cyber Shield
 
