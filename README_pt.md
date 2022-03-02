@@ -42,7 +42,7 @@ Sites russos, DDoS para ajudar a Ucrânia a vencer esta guerra híbrida
 <br /> macOS/Linux: python3 -m pip install --upgrade pip
 <br /> pip3 install -r requirements.txt
 <br />
-<br /> ~~ O macOS com ARM (M1) não é suportado temporariamente, espere atualizações nas próximas horas ~~
+<br /> ~~O macOS com ARM (M1) não é suportado temporariamente, espere atualizações nas próximas horas~~
 <br /> Suporte para macOS ARM (M1)!
 <br />
 <br />▪ Se não ajudar, não deixe de escrever em tg!!
@@ -51,17 +51,11 @@ Sites russos, DDoS para ajudar a Ucrânia a vencer esta guerra híbrida
 ## Como criar uma imagem do Docker:
 
 1. Download [docker](https://www.docker.com/)
-2. Puxe a imagem: 
-docker pull gcr.io/fuck-russia-342819/nowarddos:latest
-3.	Rode:
-docker run --rm gcr.io/fuck-russia-342819/nowarddos:latest 500
-
+2. Puxe a imagem:
 ```shell
 docker pull gcr.io/fuck-russia-342819/nowarddos:latest
 ```
-
-3. Запускаємо
-
+3.	Rode:
 ```shell
 docker run --rm gcr.io/fuck-russia-342819/nowarddos:latest 500
 ```
@@ -128,7 +122,7 @@ Python Devs:
 <br />**Thank you all, nothing would have happened without you ❤️**
 <br />**Glory to Ukraine!**
 <br />
-<br />**E um bando de guerreiros anônimos pela liberdade!**
+<br />**É um bando de guerreiros anônimos pela liberdade!**
 <br />**100% esqueci alguém. Não se ofenda)**
 <br />**Obrigado a todos, nada teria acontecido sem vocês ❤️**
 <br />**Glória à Ucrânia!**
